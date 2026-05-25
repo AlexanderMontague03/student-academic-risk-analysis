@@ -6,6 +6,8 @@ The analysis includes exploratory data analysis, preprocessing, multinomial logi
 
 ## Dataset
 
+Dataset source: https://www.kaggle.com/datasets/nawazkhan3251/student-performance-and-behavioral-analytics-dataset
+
 The target variable is `performance_risk_level`, with three classes:
 
 - Low Risk
